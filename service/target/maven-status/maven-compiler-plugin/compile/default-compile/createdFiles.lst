@@ -1,0 +1,10 @@
+nl/ordina/jtech/java9/service/collections/impl/internal/SuperCollectionServiceArraysAsListInternal.class
+module-info.class
+nl/ordina/jtech/java9/service/collections/impl/SuperCollectionServiceArrayListImpl.class
+nl/ordina/jtech/java9/service/collections/impl/map/SuperServiceHashMapImpl.class
+nl/ordina/jtech/java9/service/collections/SuperMapService.class
+nl/ordina/jtech/java9/service/collections/SuperCollectionService.class
+nl/ordina/jtech/java9/service/flow/Transformer.class
+nl/ordina/jtech/java9/service/flow/NumberDoublerLoggingConsumer.class
+nl/ordina/jtech/java9/service/flow/StringLoggingConsumer.class
+nl/ordina/jtech/java9/service/security/HashService.class
